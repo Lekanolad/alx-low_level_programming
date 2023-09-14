@@ -5,9 +5,8 @@
  * @n: char for comparism
  *
  * Return: 1 if positive (and prints "+",
- * Return: 0 if zero (and prints "0")
- * Return: -1 if negative (and prints "-")
- *
+ * Also Return: 0 if zero (and prints "0")
+ * And Return: -1 if negative (and prints "-")
  *
  */
 
